@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">KotlinLesson05</string>
+    <string name="Message">В разроботке</string>
+    <string name="next">ДАЛЕЕ</string>
+</resources>
